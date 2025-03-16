@@ -1,0 +1,24 @@
+# 域名后缀匹配
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,mobatek.net
+DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,greasyfork.org
+DOMAIN-SUFFIX,v2rayssr.com
+
+# 内容：Steam
+# 数量：1
+DOMAIN-SUFFIX,steamstatic.com
+
+# 内容：rockstar
+# 数量：1
+DOMAIN-SUFFIX,rockstargames.com
+  
+#tiktokv
+DOMAIN-SUFFIX,tiktokcdn-us.com
+DOMAIN-SUFFIX,tiktokv.us
+DOMAIN-SUFFIX,tiktokcdn.com
+
+# IP段匹配
+IP-CIDR,142.171.133.131/32,no-resolve
+IP-CIDR,103.115.43.2/32,no-resolve
