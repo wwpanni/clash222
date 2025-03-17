@@ -1,6 +1,6 @@
 自己前端：
 
-https://dy.junjie123.top
+https://clash.junjie.xin:8443
 
 配置模版
 
